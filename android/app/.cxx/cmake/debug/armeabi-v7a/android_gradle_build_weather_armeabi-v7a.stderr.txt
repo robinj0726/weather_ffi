@@ -1,0 +1,1 @@
+ninja: error: mkdir(CMakeFiles/weather.dir/C_/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3): No such file or directory

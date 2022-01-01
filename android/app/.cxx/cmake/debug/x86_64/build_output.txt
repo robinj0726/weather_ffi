@@ -1,0 +1,27 @@
+Check for working C compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+Check for working C compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+Detecting C compiler ABI info
+Detecting C compiler ABI info - done
+Detecting C compile features
+Detecting C compile features - done
+Check for working CXX compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+Check for working CXX compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+Detecting CXX compiler ABI info
+CMake Warning in C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_85270.dir/
+
+  has 227 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+Detecting CXX compiler ABI info - done
+Detecting CXX compile features
+Detecting CXX compile features - done
+Configuring done

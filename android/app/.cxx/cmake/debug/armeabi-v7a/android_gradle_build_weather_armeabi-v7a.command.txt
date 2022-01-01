@@ -1,0 +1,7 @@
+Executable : C:\Users\admin\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\admin\Downloads\CallingNativeLibrariesInFlutterWithDartFFI_Materials-3\CallingNativeLibrariesInFlutterWithDartFFI_Materials\weather_ffi\android\app\.cxx\cmake\debug\armeabi-v7a
+weather
+jvmArgs : 
+

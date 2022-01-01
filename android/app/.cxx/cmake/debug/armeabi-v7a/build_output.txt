@@ -1,0 +1,111 @@
+Check for working C compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+Check for working C compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+Detecting C compiler ABI info
+CMake Warning in C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_32815.dir/
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+Detecting C compiler ABI info - done
+Detecting C compile features
+Detecting C compile features - done
+Check for working CXX compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+CMake Warning in C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_84776.dir/
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    testCXXCompiler.cxx.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+Check for working CXX compiler: C:/Users/admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+Detecting CXX compiler ABI info
+CMake Warning in C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_318e9.dir/
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+Detecting CXX compiler ABI info - done
+Detecting CXX compile features
+CMake Warning in C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_02947.dir/
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    feature_tests.cxx.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_6ab07.dir/
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    feature_tests.cxx.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_22e61.dir/
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    feature_tests.cxx.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+CMake Warning in C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/admin/Downloads/CallingNativeLibrariesInFlutterWithDartFFI_Materials-3/CallingNativeLibrariesInFlutterWithDartFFI_Materials/weather_ffi/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_3a1d5.dir/
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    feature_tests.cxx.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+Detecting CXX compile features - done
+Configuring done
